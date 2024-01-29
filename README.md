@@ -19,6 +19,7 @@ Given the numerator and denominator of an $s$-domain function, this script build
 - The Routh-Hurwitz theorem is used to find the stability of the system.
 - The `numerator` and `denominator` are defined using only the coefficients of the $s$-variable.
 - The `clear` function is used at the start of the program, make sure to save any previous variables before running the script.
+- If `isstable` outputs a $0$ the system is unstable, conversely, if the output is $1$, the system is stable.
 - The following $T(s)$ functions are already included in the script:
   
   $$T(s)=\frac{20}{s^8+s^7+12s^6+22s^5+39s^4+59s^3+48s^2+38s+20}$$
