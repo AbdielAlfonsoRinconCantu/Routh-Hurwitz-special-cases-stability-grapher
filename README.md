@@ -49,7 +49,7 @@ Special thanks to Dr. Jorge Quishpe-Armas for providing the documentation that l
 ## **License** ##  
 MIT License
 
-Copyright (c) 2023 Abdiel Alfonso Rincon Cantu
+Copyright (c) 2024 Abdiel Alfonso Rincon Cantu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
